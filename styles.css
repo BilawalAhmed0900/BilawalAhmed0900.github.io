@@ -32,6 +32,10 @@ li {
   border-bottom: 1px solid grey;  
 }
 
+.smallHr {
+  border: none; 
+  border-bottom: 1px dashed grey;  
+}
 
 .backImg {
   width: 100%;
